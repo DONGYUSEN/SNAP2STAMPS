@@ -4,8 +4,8 @@ https://github.com/mdelgadoblasco/snap2stamps
 
 This script working on:
 1. multi-sw, multi-look for Sentinel
-2. multi-threaded for slave prepare, coreg&fig, NOT for stamps_export.
-3. can stop and continue processing in slave prepare and coreg&ifg, or reprocessing by modified finished.txt in /ifg and /slaves 
+2. multi-threaded for slave prepare, coreg&ifg, NOT for stamps_export.
+3. can stop and continue processing in slave prepare and coreg&ifg by modify finished.txt in /ifg and /slaves 
 
 
 
