@@ -3,6 +3,9 @@
 # Date: 21/06/2018
 # Version: 1.0
 
+# Updated by Yusen DONG, dongyusen@gmail.com
+# Date: 22/03/2020
+
 # Step 1 : preparing slaves in folder structure
 # Step 2 : TOPSAR Splitting (Assembling) and Apply Orbit
 # Step 3 : Coregistration and Interferogram generation
