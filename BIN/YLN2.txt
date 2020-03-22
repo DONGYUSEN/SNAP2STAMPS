@@ -1,0 +1,31 @@
+
+######### CONFIGURATION FILE ######
+###################################
+# PROJECT DEFINITION
+SOURCEFOLDER=/Volumes/DATA/ylnuclear2/org
+PROJECTFOLDER=/Volumes/DATA/ylnuclear2/psinsar
+GRAPHSFOLDER=/Users/ysdong/Software/my_snap/graphs
+##################################
+# PROCESSING PARAMETERS
+IW1=IW3
+MASTER=S1A_IW_SLC__1SDV_20180220T023028_20180220T023055_020684_0236DF_0435.zip,S1A_IW_SLC__1SDV_20180220T023052_20180220T023119_020684_0236DF_C5C3.zip
+##################################
+# AOI AREA
+LONMIN=50.810
+LATMIN=28.700
+LONMAX=51.310
+LATMAX=29.300
+##################################
+# Multilook 
+RGLOOK=4
+AZLOOK=1
+SMOOTH=1
+##################################
+# SNAP GPT 
+GPTBIN_PATH=/Applications/snap/bin/gpt
+##################################
+# COMPUTING RESOURCES TO EMPLOY
+CPU=12
+CACHE=32G
+Multiproc=1
+##################################
